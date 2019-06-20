@@ -1,0 +1,16 @@
+.vscode
+
+app/app
+app/app.c~
+
+driver/.tmp_versions
+driver/.altera_driver.ko.cmd
+driver/.altera_driver.mod.o.cmd
+driver/.altera_driver.o.cmd
+driver/altera_driver.c~
+driver/altera_driver.ko
+driver/altera_driver.mod.c
+driver/altera_driver.mod.o
+driver/altera_driver.o
+driver/Module.symvers
+driver/modules.order
